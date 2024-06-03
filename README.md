@@ -12,7 +12,6 @@
 - Python
 - Pygame (for game development)
 - Sys (for system-specific parameters and functions)
-- Random (for random selections)
 
 ## Required Libraries
 Make sure you have the following libraries installed before running the application:
